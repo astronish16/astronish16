@@ -1,5 +1,6 @@
-## Hi there 👋
+## Ronish Mugatwala
 
+#### 👨‍🎓 About Me
 <!--
 **astronish16/astronish16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
