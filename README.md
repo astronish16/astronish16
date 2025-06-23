@@ -1,7 +1,7 @@
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Dr. Ronish Mugatwala.
 
-Currently, I am Research Fellow at [University of Genoa](https://mida.unige.it/it). I have obtained my PhD jointly from University of Rome "Tor Vergata" and University of Sheffield.
-Over the course of my academic journey my primary research interest grew around coronal mass ejections (CMEs) and space weather. 
+Currently, I am Research Fellow at [University of Genoa](https://mida.unige.it/it). I have obtained my PhD through a joint program between the University of Rome "Tor Vergata" and the University of Sheffield.
+Over the course of my academic journey, my primary research interests have focused on **coronal mass ejections (CMEs)** and space weather. 
 
 I am passionate about:
 - Coronal Mass Ejection morphology and kinematics
