@@ -12,7 +12,7 @@ Currently, I am developing a **python wrapper** to get CME and Flare information
 
 
 
-## 🚀 Research Interests
+## 🛰️ Research Interests
 - **Coronal Mass Ejection (CME):** Morphology, kinematics, and interplanetary propagation
 - **Space Weather:** Forecasting, modeling, and real-time prediction
 - **Heliospheric Imaging & Spacecraft Data Analysis**
