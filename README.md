@@ -1,12 +1,14 @@
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Dr. Ronish Mugatwala.
 
-Currently, I am Research Fellow at [University of Genoa](https://mida.unige.it/it).
-My primary research interest is revolving around coronal mass ejections (CMEs) and space weather. 
+Currently, I am Research Fellow at [University of Genoa](https://mida.unige.it/it). I have obtained my PhD jointly from University of Rome "Tor Vergata" and University of Sheffield.
+Over the course of my academic journey my primary research interest grew around coronal mass ejections (CMEs) and space weather. 
 
 I am passionate about:
 - Coronal Mass Ejection morphology and kinematics
 - Space weather forecasting and its effects on Earth and technology
 - Contributing to open-source scientific tools and space weather datasets
+
+Currently, I am developing a **python wrapper** to get CME and Flare information from various data sources
 
 
 
